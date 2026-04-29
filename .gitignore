@@ -1,0 +1,11 @@
+# Large data files
+*.csv
+!data/sample/*.csv
+
+# Python
+__pycache__/
+*.pyc
+.DS_Store
+
+# Power BI temp files
+*.pbix.bak
